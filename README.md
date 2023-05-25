@@ -1,4 +1,5 @@
 # test
-Hello!
-This is Readme.
-I intro this repository
+Hello!  
+This is Readme.  
+I introduce this repository  
+Bye!
